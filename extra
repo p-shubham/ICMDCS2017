@@ -1,0 +1,58 @@
+    
+    
+    <div id="subscribe">
+    	<div class="container">
+    	    <h2>Subscribe To Us</h2>
+    	    <p>Ex per oblique corpora concludaturque, consulatu incorrupte an eum. In his offendit scribentur, eam ne autem tractatos. Affert molestie phaedrum vel ad, dicit audire expetendis qui ut, ne minim deleniti eum. </p>
+			<div class="col-md-8 col-md-offset-2">
+             	<form action="#">
+              		<div class="input-group">
+                 		<input class="btn btn-lg" name="email" id="email" type="email" placeholder="Enter your email address" required>
+                 		<button class="btn btn-info btn-lg" type="submit">Submit</button>
+             		 </div>
+            	</form>
+			</div>  
+    	</div>
+    </div>
+    
+
+    
+<!--
+    <div id="portfolio">
+        <div class="container">
+            <h2>Schedule</h2>
+            <p>Lorem ipsum dolor sit amet, suscipit percipit mea te, est te alia utinam electram. Sea ex doctus numquam, lucilius efficiantur vim id, meis timeam cu usu. Ius atomorum neglegentur ei, ullum accusamus persecuti pro ut. Cu per adipisci quaerendum, an offendit verterem sea. Ut autem apeirian sea, libris eripuit veritus ex ius, legere iriure utamur te ius.</p>
+                <div class="portfolioFilter">  
+                    <ul class="Portfolio-nav wow fadeIn delay-02s">
+                        <li><a href="#" data-filter="*" class="current" >All</a></li>
+                        <li><a href="#" data-filter=".webdesign" >Web design</a></li>
+                        <li><a href="#" data-filter=".appdevelopment" >App Development</a></li>
+                        <li><a href="#" data-filter=".graphicdesign" >Graphic Design</a></li>
+                    </ul>
+                </div> 
+        </div>
+        
+            <div class="portfolioContainer">
+                <div class=" Portfolio-box appdevelopment">
+                    <a href="#"><img src="images/placeholder2.png" alt=""></a>  
+                </div>
+                <div class="Portfolio-box webdesign">
+                    <a href="#"><img src="images/placeholder2.png" alt=""></a>  
+                </div>
+                <div class=" Portfolio-box appdevelopment">
+                    <a href="#"><img src="images/placeholder2.png" alt=""></a>  
+                </div>
+                <div class=" Portfolio-box webdesign" >
+                    <a href="#"><img src="images/placeholder2.png" alt=""></a>  
+                </div>
+                <div class=" Portfolio-box graphicdesign">
+                    <a href="#"><img src="images/placeholder2.png" alt=""></a>  
+                </div>
+                <div class=" Portfolio-box graphicdesign">
+                    <a href="#"><img src="images/placeholder2.png" alt=""></a>  
+                </div>
+            </div>
+        
+    </div>
+   --> 
+    
